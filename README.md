@@ -1,12 +1,12 @@
-# Dynamic Event Calendar Application
+# Custom Event Calendar Application
 
 ## **Objective**
-The **Dynamic Event Calendar Application** is designed to provide users with an interactive and user-friendly platform to manage events effectively. It evaluates advanced React.js logic, clean UI design principles, and deployment capabilities.
+The **Custom Event Calendar Application** is designed to provide users with an interactive and user-friendly platform to manage events effectively. It evaluates advanced React.js logic, clean UI design principles, and deployment capabilities.
 
 ---
 
 ## **Live Demo**
-Explore the live application here: [Dynamic Event Calendar](https://dynamic-calendar-eight.vercel.app/)
+Explore the live application here: [Dynamic Event Calendar](https://eventcalendar139.netlify.app/)
 
 ---
 
@@ -20,11 +20,11 @@ Explore the live application here: [Dynamic Event Calendar](https://dynamic-cale
 ## **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/piyush-cha/Dynamic-Calendar.git
+   git clone https://github.com/shivang139/Event-Calendar.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Dynamic-Calendar
+   cd Event-calendar
    ```
 3. Install dependencies:
    ```bash
